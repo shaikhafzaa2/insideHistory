@@ -1,0 +1,35 @@
+@media screen and (max-width: 600px){
+    h3{
+        margin-right: 30px;
+        font-size: 180%;
+    }
+
+    .main{
+        margin-right: 160px;
+        padding: 10px;
+    }
+
+   
+    .sideright{
+        width: 120px;
+        padding: 10px;
+        font-size:80%;
+    }
+    .imagesidebar{
+        width: 140px;
+    }
+
+    
+    body{
+        font-size: 70%;
+    }
+    #navbar ul a{
+        padding: 0.2em 0.5em;;
+    }
+    #main2{
+        padding: 10px;
+        margin-right: 10px;
+
+        
+    }
+}
