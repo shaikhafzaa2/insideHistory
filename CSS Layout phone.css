@@ -11,12 +11,15 @@
 
    
     .sideright{
+        
         width: 120px;
         padding: 10px;
         font-size:80%;
+        display: none;
     }
     .imagesidebar{
         width: 140px;
+        display:none;
     }
 
     
