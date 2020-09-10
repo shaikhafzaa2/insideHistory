@@ -1,0 +1,19 @@
+@media(max-width: 600px){
+    h3{
+        margin-right: 50px;
+    }
+
+    .main{
+        margin-right: 260px;
+    }
+
+    #navbar{
+        display: none;
+    }
+    .sideright{
+        width: 200px;
+    }
+    .imagesidebar{
+        width: 240px;
+    }
+}
